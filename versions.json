@@ -1,14 +1,14 @@
 {
     "loader": {
-        "version": "0.0.5",
+        "version": "1.0.0",
         "url": "https://drive.google.com/uc?export=download&id=1Oqex8-Ve1oow_aMgkplXCFnD1m8d_fHu"
     },
     "hook": {
-        "version": "0.0.5",
+        "version": "1.0.0",
         "url": "https://drive.google.com/uc?export=download&id=1E8DozuzcMzmZW-OASnpeuYKf98oVLixB"
     },
     "frontend": {
-        "version": "0.0.5",
+        "version": "1.0.0",
         "url": "https://drive.google.com/uc?export=download&id=1kQOCJsZtqWUYp7VpOVq8DWhqPcCrcYEc"
     }
 }
